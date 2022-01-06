@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rxghav1103
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
