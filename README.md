@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm Rxghav, a passionate developer with a love for
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rxghav1103](https://github-readme-stats.vercel.app/api?username=Rxghav1103&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
